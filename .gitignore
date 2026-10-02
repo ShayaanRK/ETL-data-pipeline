@@ -1,1 +1,5 @@
 .env
+__pycache__/
+*.pyc
+# Ignore raw data files to keep Git repo light
+data/raw/INvideos.csv
